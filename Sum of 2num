@@ -1,0 +1,5 @@
+#Sum of 2 num
+A=2
+B=2
+sum=a+b
+Print(sum)
